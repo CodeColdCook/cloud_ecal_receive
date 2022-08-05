@@ -1,0 +1,3 @@
+[submodule "external/cloud_protobuf"]
+	path = external/cloud_protobuf
+	url = https://github.com/CodeColdCook/cloud_ecal.git
